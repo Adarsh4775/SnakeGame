@@ -8,3 +8,6 @@ https://drive.google.com/drive/folders/1Trh8cnIy_tpDuRsKwlz3zEcqPEwd2GPQ?usp=sha
 
 ### Project snips:
 
+![snake](https://github.com/Adarsh4775/SnakeGame/assets/137145969/22646a9b-257e-4f67-a37d-7b8fd00febb2)
+
+![gameover](https://github.com/Adarsh4775/SnakeGame/assets/137145969/0abfeeca-c04d-4772-8d54-8070cdfd7251)
